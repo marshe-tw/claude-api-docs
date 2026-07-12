@@ -1,0 +1,14 @@
+site_name: Claude API Documentation
+site_description: A community documentation project for the Anthropic Claude API
+site_author: Mohamed Arshe
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Authentication: authentication.md
+  - Endpoints:
+    - Messages: endpoints/messages.md
+    - Models: endpoints/models.md
+  - Examples:
+    - Basic Request: examples/basic.md
+    - Streaming: examples/streaming.md
