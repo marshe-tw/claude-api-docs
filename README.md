@@ -10,7 +10,7 @@ built to learn API documentation and Docs-as-Code workflows.
 This project was built as a learning exercise to practice:
 
 - **API documentation** – endpoints, parameters, request/response examples
-- **OpenAPI/Swagger** – formal API specification in YAML
+- **OpenAPI 3.0** – formal API specification in YAML
 - **Docs-as-Code** – writing documentation like code using Git and Markdown
 - **MkDocs** – building a documentation website from Markdown files
 - **GitHub Actions** – automatically deploying the site on every commit
