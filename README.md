@@ -36,4 +36,4 @@ This project was built as a learning exercise to practice:
 ## Author
 
 Mohamed Arshe – Technical Writer  
-[LinkedIn](https://www.linkedin.com/in/marshe-tw) · [GitHub](https://github.com/marshe-tw)
+[LinkedIn](https://www.linkedin.com/in/mohamed-arshe-083b712ba/) · [GitHub](https://github.com/marshe-tw)
